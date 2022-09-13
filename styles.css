@@ -49,10 +49,10 @@
 
 #appbg .naranja {
     background-color: rgb(255, 141, 3);
-    
+    color: rgb(42, 62, 164) !important;
 }
 
 #appbg .gris {
     background-color: rgb(54, 54, 54);
-    background-color: rgb(255, 141, 3);
+    color: rgb(42, 62, 164) !important;
 }
