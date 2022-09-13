@@ -1,8 +1,14 @@
 #appbg{
-    height: 450px;
-    width: 350px;
-    border: 5px solid rgb(75, 75, 75);
-    border-radius: 5px;
+    height: 800px;
+    width: 600px;
+   
+}
+
+.nombre{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px;
 }
 
 #appbg form {
@@ -12,16 +18,16 @@
 }
 
 #appbg input[type=textfield] {
-    margin-top: 15px;
+    margin-top: 25px;
     margin-left: 3px;
-    width: 89%;
+    width: 90%;
     cursor: default;
     font-family: "roboto", sans-serif;
     background-color: black;
     color: white;
-    padding: 18px;
+    padding: 28px;
     text-align: right;
-    font-size: 50px;
+    font-size: 100px;
     border: 0;
     outline: none;
 }
@@ -31,11 +37,11 @@
     cursor: pointer;
     font-family: "roboto", sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 75px;
     color: black;
     padding: 20px;
-    margin: 1.5px;
-    margin-left: 5px;
+    margin: 8px;
+    margin-left: 7px;
     position: flex;
     border: 0;
     border-radius: 100%;
